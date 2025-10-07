@@ -35,7 +35,6 @@ flutter:
   assets:
     - assets/images/ahmed.jpeg
     - assets/images/facebook_icon.png
-    - assets/images/e_commerce.jpg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
   # For details regarding adding assets from package dependencies, see
